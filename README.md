@@ -1,6 +1,6 @@
 This is the repository for the research paper on Fake News Incidents in India accepted in Journal of Computer Communications, SCIE, IF=3.167
 
-Please write (email: rishabhkaushal@igdtuw.ac.in) to the corresponding author, Dr Rishabh Kaushal, for dataset details.
+For an updated version of dataset, please write to the corresponding author, Dr Rishabh Kaushal (email: rishabhkaushal@igdtuw.ac.in).
 
 To cite our work:<br>
 @article{dhawan2022fakenewsindia,<br>
